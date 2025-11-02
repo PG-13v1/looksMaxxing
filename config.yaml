@@ -1,0 +1,18 @@
+DATA:
+labels_csv: data/labels.csv
+image_base_path: data/images
+image_size: [224, 224]
+FEATURES:
+use_landmark_features: true
+use_image_features: true
+MODEL:
+batch_size: 32
+epochs: 30
+lr: 1e-4
+save_dir: models
+DLIB:
+predictor_path: models/shape_predictor_68_face_landmarks.dat
+TRAIN:
+val_split: 0.15
+test_split: 0.10
+RANDOM_SEED: 42

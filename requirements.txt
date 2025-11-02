@@ -1,0 +1,11 @@
+opencv-python
+dlib
+mediapipe
+tensorflow>=2.10
+numpy
+pandas
+scikit-learn
+pyyaml
+matplotlib
+tqdm
+imgaug
