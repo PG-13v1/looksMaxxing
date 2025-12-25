@@ -2,7 +2,6 @@ LooksMaxxing
 
 LooksMaxxing is an AI-driven project that analyzes and scores facial attractiveness using landmark detection, symmetry metrics, and golden ratio indicators. Built with modern computer vision tools, this system provides interpretable feedback on facial features and beauty metrics.
 
-🔗 GitHub Repository: https://github.com/PG-13v1/looksMaxxing.git
 
 🧠 About
 
@@ -102,3 +101,4 @@ Feel free to submit a pull request or open an issue to start the conversation.
 📄 License
 
 Include an open-source license like MIT or Apache 2.0 to clarify usage rights, if not already present.
+
